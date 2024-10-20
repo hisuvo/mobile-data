@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Galaxy S21",
+    "price": 799.99,
+    "color": "Phantom Gray",
+    "description": "Samsung Galaxy S21 with a 6.2-inch display, 5G support, and 64MP camera."
+  },
+  {
+    "id": 2,
+    "name": "iPhone 14",
+    "price": 999.99,
+    "color": "Midnight",
+    "description": "Apple iPhone 14 with a 6.1-inch Super Retina display, A15 Bionic chip, and dual-camera system."
+  },
+  {
+    "id": 3,
+    "name": "Pixel 7",
+    "price": 699.99,
+    "color": "Snow",
+    "description": "Google Pixel 7 with a 6.3-inch OLED display, Google Tensor processor, and advanced AI features."
+  },
+  {
+    "id": 4,
+    "name": "OnePlus 10 Pro",
+    "price": 899.99,
+    "color": "Emerald Forest",
+    "description": "OnePlus 10 Pro with a 6.7-inch Fluid AMOLED display, 120Hz refresh rate, and 48MP camera."
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi Mi 11",
+    "price": 749.99,
+    "color": "Horizon Blue",
+    "description": "Xiaomi Mi 11 with a 6.81-inch display, Snapdragon 888, and 108MP camera for stunning photography."
+  }
+]
